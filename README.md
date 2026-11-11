@@ -50,9 +50,10 @@ A production-grade, multi-interface tracker for the **Learn With Communities Cam
 ## 🚀 Quick Start
 
 ### 1. Requirements & Setup
-Make sure Python 3.10+ is installed:
+Clone the repository and install the dependencies:
 ```bash
-cd "C:\Users\Harry\.gemini\antigravity\scratch\learn-with-communities-tracker"
+git clone <your-repository-url>
+cd learn-with-communities-tracker
 pip install -r requirements.txt
 ```
 
